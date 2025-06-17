@@ -13,7 +13,7 @@
 - 🧩 Работаю на стыке **Data Science** и **Web Backend**
 - ⚙️ Строю ML-пайплайны, API и микросервисы
 - 📦 Интересуюсь **AI-инфраструктурой**, MLOps и open-source
-- 🚀 Люблю FastAPI, SQL, Docker и Python во всех его проявлениях
+- 🚀 Люблю Django, SQL, Docker и Python во всех его проявлениях
 
 ---
 
@@ -30,20 +30,12 @@
 
 #### 🔧 Backend & DevOps
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-
----
-
-### 📈 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nevantain&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
