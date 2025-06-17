@@ -30,7 +30,7 @@
 
 #### 🔧 Backend & DevOps
 
-![Django](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=django)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
